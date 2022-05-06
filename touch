@@ -1,0 +1,16 @@
+1. What is the command used to rename file?
+  mv command
+2. What is the command used to create a file?
+  touch command
+3. What does the command 'cd' do?
+   cd command is used to change the existing directory
+4. List some options of 'ls' command?
+   ls -a
+   ls --help
+   ls -A
+   ls -C
+5. What is the command used to delete a file or directory?
+   rm  or rmdir
+6.What is the difference between absolute and relative path?
+  Absolute path is a path which start from the root but relative path use where we are know
+
